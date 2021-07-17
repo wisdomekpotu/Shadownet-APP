@@ -28,9 +28,9 @@ Technologies Used:
 - **Mongoose** for creating Database schema and model
 - **HTML**, **CSS**, and **Javascript** with [ MDBootstrap] for our website's frontend
 
-![alt text](https://github.com/[wisdomekpotu]/[E-learning-Hub]/blob/[main]/screenshot/upload.png?raw=true)
-![alt text](https://github.com/[wisdomekpotu]/[E-learning-Hub]/blob/[main]/screenshot/dashboard.png?raw=true)
-![alt text](https://github.com/[wisdomekpotu]/[E-learning-Hub]/blob/[main]/screenshot/login.png?raw=true)
+![alt text](https://github.com/wisdomekpotu/E-learning-Hub/blob/main/screenshot/upload.png?raw=true)
+![alt text](https://github.com/wisdomekpotu/E-learning-Hub/blob/main/screenshot/dashboard.png?raw=true)
+![alt text](https://github.com/wisdomekpotu/E-learning-Hub/blob/main/screenshot/login.png?raw=true)
 
 ### Setup
 
