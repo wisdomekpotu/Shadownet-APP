@@ -30,6 +30,7 @@ Technologies Used:
 - **Nodejs** and **Expressjs** as our server language and server framework
 - **Mongoose** for creating Database schema and model
 - **HTML**, **CSS**, and **Javascript** with [ MDBootstrap] for our website's frontend
+- **Handlebars(.hbs)** as our Template Engine 
 
 ![alt text](https://github.com/wisdomekpotu/E-learning-Hub/blob/main/screenshot/upload.png?raw=true)
 ![alt text](https://github.com/wisdomekpotu/E-learning-Hub/blob/main/screenshot/dashboard.png?raw=true)
